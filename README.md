@@ -7,6 +7,7 @@ Mentor: Neela Santhosh Kumar
 
 
 OVERVIEW OF THE PROJECT
+![Screenshot 2024-07-31 044551](https://github.com/user-attachments/assets/8948425b-6942-466d-9455-5bd6c7a498cc)
 PROJECT: TO-DO LIST WEB APPLICATION
 
 Objective
